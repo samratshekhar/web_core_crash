@@ -27,8 +27,6 @@ const Constants = {
 
     return 'http://localhost:3001'; // iOS localhost
     // return 'http://10.0.2.2:3001'; // Android localhost
-    // return 'http://redkeep.qplum.co:3001';
-    // return 'http://showcase.qplum.co:3001';
   },
 
 
